@@ -1,0 +1,15 @@
+/* Slider */
+
+.cover-text{
+    transform: translateY(-55%);
+    bottom: initial;
+    top: 55%;
+}
+.cover-heading{
+    font-size: 3.34rem;
+    font-weight: 700;
+}
+.carousel-item img{
+    height: 85vh;
+    object-fit: cover;
+}

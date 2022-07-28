@@ -18,11 +18,15 @@ body {
 }
 
 /* main */
-
-.courses-header .faq-header .company-header{
-    margin-top: 150px;
-    margin-bottom: 100px;
+.register{
+    margin-top: 140px;
+    margin-bottom: 70px;
 }
+.courses-header{
+    margin-top: 160px;
+    margin-bottom: 90px;
+}
+
 @media screen and (max-width:576px) {
     .course img{
         width: 94vw;
@@ -31,3 +35,4 @@ body {
         padding: 0;
     }
 }
+

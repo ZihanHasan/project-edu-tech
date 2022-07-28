@@ -19,7 +19,15 @@ main h2{
     font-size: 3rem;
     font-weight: 700; 
 }
-.courses{
+.courses-header{
     margin-top: 150px;
     margin-bottom: 100px;
+}
+@media screen and (max-width:576px) {
+    .course img{
+        width: 94vw;
+        height: 240px;
+        margin-bottom: 15px;
+        padding: 0;
+    }
 }
